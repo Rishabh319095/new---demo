@@ -1,2 +1,3 @@
-# new---demo
-This is my first Git Repository
+# new-demo
+This is my first Git Repository.
+Author- Rishabh Tiwari
